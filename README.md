@@ -1,0 +1,2 @@
+# Externally-Randomized-Encryption-Service
+We aim to create a robust encryption algorithm using a randomly generated key and suitable algorithms. The strength of most contemporary encryption services depends on the generation of a random key. But most available random generators are pseudorandom due to their dependence on the internal system processes. This project aims to make a more secure encryption service by relying on external, more truly random processes for key generation. 
