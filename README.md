@@ -7,8 +7,8 @@ Cryptography (synonymous to encryption) is the practice or study of techniques f
 We aim to create an encryption algorithm that depends on randomness naturally found as a source of the key. We shall be doing this in two phases:
 ### Key generation:
 We shall be using one of the following methods to generate a binary sequence:
-#### Random sound analysis: 
-Random sounds are recorded, and frequency is divided into above and below a certain level, so as to assign binary values.
+#### White Noise Analysis: 
+Random sounds are recorded, and frequency is divided into those above and below a threshold frequency, so as to assign binary values.
 #### Position of Stones in Rice: 
 A few stones are placed along with rice and shaken. The position of the stones are noted with respect to a grid
 #### Photograph database: 
